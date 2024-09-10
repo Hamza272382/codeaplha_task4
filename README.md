@@ -10,7 +10,7 @@ This project demonstrates real-time face detection and recognition using a webca
 ## Dependencies
 
 - `opencv-python`
-- `simple_facerec` (custom module)
+- `face_recognition` 
 
 Install the required Python packages using:
 
